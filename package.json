@@ -1,6 +1,5 @@
 {
   "name": "employees",
-  "homepage": "https://employeemanagement",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
