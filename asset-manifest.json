@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/employeemanagement/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/employeemanagement/static/js/main.a4801020.chunk.js",
-    "main.js.map": "/employeemanagement/static/js/main.a4801020.chunk.js.map",
-    "runtime-main.js": "/employeemanagement/static/js/runtime-main.6e192b71.js",
-    "runtime-main.js.map": "/employeemanagement/static/js/runtime-main.6e192b71.js.map",
-    "static/js/2.87eebaad.chunk.js": "/employeemanagement/static/js/2.87eebaad.chunk.js",
-    "static/js/2.87eebaad.chunk.js.map": "/employeemanagement/static/js/2.87eebaad.chunk.js.map",
-    "static/js/3.5903c10a.chunk.js": "/employeemanagement/static/js/3.5903c10a.chunk.js",
-    "static/js/3.5903c10a.chunk.js.map": "/employeemanagement/static/js/3.5903c10a.chunk.js.map",
+    "main.css": "/employeemanagement/static/css/main.b3bf56cd.chunk.css",
+    "main.js": "/employeemanagement/static/js/main.6253c71d.chunk.js",
+    "main.js.map": "/employeemanagement/static/js/main.6253c71d.chunk.js.map",
+    "runtime-main.js": "/employeemanagement/static/js/runtime-main.ab081e88.js",
+    "runtime-main.js.map": "/employeemanagement/static/js/runtime-main.ab081e88.js.map",
+    "static/css/2.e243012a.chunk.css": "/employeemanagement/static/css/2.e243012a.chunk.css",
+    "static/js/2.3d0929e1.chunk.js": "/employeemanagement/static/js/2.3d0929e1.chunk.js",
+    "static/js/2.3d0929e1.chunk.js.map": "/employeemanagement/static/js/2.3d0929e1.chunk.js.map",
+    "static/js/3.97a5c27c.chunk.js": "/employeemanagement/static/js/3.97a5c27c.chunk.js",
+    "static/js/3.97a5c27c.chunk.js.map": "/employeemanagement/static/js/3.97a5c27c.chunk.js.map",
     "index.html": "/employeemanagement/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/employeemanagement/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.87eebaad.chunk.js.LICENSE.txt": "/employeemanagement/static/js/2.87eebaad.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/employeemanagement/static/media/logo.6ce24c58.svg"
+    "static/css/2.e243012a.chunk.css.map": "/employeemanagement/static/css/2.e243012a.chunk.css.map",
+    "static/css/main.b3bf56cd.chunk.css.map": "/employeemanagement/static/css/main.b3bf56cd.chunk.css.map",
+    "static/js/2.3d0929e1.chunk.js.LICENSE.txt": "/employeemanagement/static/js/2.3d0929e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e192b71.js",
-    "static/js/2.87eebaad.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.a4801020.chunk.js"
+    "static/js/runtime-main.ab081e88.js",
+    "static/css/2.e243012a.chunk.css",
+    "static/js/2.3d0929e1.chunk.js",
+    "static/css/main.b3bf56cd.chunk.css",
+    "static/js/main.6253c71d.chunk.js"
   ]
 }
